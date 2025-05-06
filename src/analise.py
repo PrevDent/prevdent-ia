@@ -6,20 +6,16 @@ from colorama import Fore, Style
 
 colorama.init()
 
-# Carregar o dataset
 df = pd.read_csv("C:/Users/zenet/OneDrive/Desktop/Sprint_4/prevdent-ia/data/dataset.csv")
 
-# Pré-processamento de datas
 df['Data_Consulta'] = df['Data_Consulta'].str.strip("[]").str.replace("'", "").astype(str)
 df['Data_Consulta'] = pd.to_datetime(df['Data_Consulta'], format='%Y-%m-%d')
 
-# Análises
 diagnostico_tratamento = df.groupby(['Diagnóstico', 'Tratamento']).size().unstack().fillna(0)
 consultas_por_data = df.groupby('Data_Consulta').size()
 medicamentos_comuns = df['Medicamentos'].value_counts()
 seguimento_taxa = df['Seguimento'].value_counts()
 
-# Menu de opções
 print(Fore.GREEN + "Como você gostaria de visualizar os dados?" + Style.RESET_ALL)
 print(Fore.CYAN + "(1) Visualizar gráficos na Web")
 print(Fore.CYAN + "(2) Exibir informações no Terminal")
@@ -29,7 +25,7 @@ opcao = input(Fore.YELLOW + "Escolha uma opção (1/2/3): " + Style.RESET_ALL)
 
 try:
     if opcao == '1':
-        # Visualização em tela
+        
         plt.figure(figsize=(10, 6))
         diagnostico_tratamento.plot(kind='bar', stacked=True)
         plt.title('Contagem de Tratamentos por Diagnóstico')
@@ -63,7 +59,7 @@ try:
         plt.show()
 
     elif opcao == '2':
-        # Exibir no terminal
+        
         print(Fore.GREEN + "Informações resumidas:" + Style.RESET_ALL)
         print(Fore.YELLOW + "\n1. Contagem de Tratamentos por Diagnóstico:" + Style.RESET_ALL)
         print(diagnostico_tratamento)
@@ -75,14 +71,14 @@ try:
         print(seguimento_taxa)
 
     elif opcao == '3':
-        # Definir o caminho absoluto da pasta onde os PDFs serão salvos
+        
         caminho_pasta_especifica = "C:/Users/zenet/OneDrive/Desktop/Sprint_4/prevdent-ia/outputs/graficos"
         
-        # Criar a pasta se ela não existir
+        
         if not os.path.exists(caminho_pasta_especifica):
             os.makedirs(caminho_pasta_especifica)
         
-        # Salvar em PDF na pasta especificada
+        
         plt.figure(figsize=(10, 6))
         diagnostico_tratamento.plot(kind='bar', stacked=True)
         plt.title('Contagem de Tratamentos por Diagnóstico')
