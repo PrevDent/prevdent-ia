@@ -1,0 +1,382 @@
+[
+    {
+        "_id": "681917706c74f7df883c2c96",
+        "consulta_id": "C001",
+        "data_consulta": "2025-04-10",
+        "observacoes": "Paciente reclamando de dor no molar inferior direito.",
+        "paciente": {
+            "paciente_id": "P001",
+            "nome": "Maria Silva"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG001",
+            "descricao": "Cárie dentária no dente 46",
+            "recomendacao": "Obturação com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c97",
+        "consulta_id": "C002",
+        "data_consulta": "2025-04-15",
+        "observacoes": "Paciente com sangramento gengival ao escovar os dentes.",
+        "paciente": {
+            "paciente_id": "P002",
+            "nome": "José Oliveira"
+        },
+        "dentista": {
+            "dentista_id": "D003",
+            "nome": "Dr. Carlos Mendes"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG002",
+            "descricao": "Gengivite leve",
+            "recomendacao": "Raspagem e orientação de higiene"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c98",
+        "consulta_id": "C003",
+        "data_consulta": "2025-04-18",
+        "observacoes": "Paciente deseja iniciar tratamento ortodôntico.",
+        "paciente": {
+            "paciente_id": "P003",
+            "nome": "Ana Paula Souza"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG003",
+            "descricao": "Mordida cruzada anterior",
+            "recomendacao": "Instalação de aparelho ortodôntico fixo"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c99",
+        "consulta_id": "C004",
+        "data_consulta": "2025-04-20",
+        "observacoes": "Paciente com dor de dente e inchaço na gengiva.",
+        "paciente": {
+            "paciente_id": "P004",
+            "nome": "Lucas Pereira"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG004",
+            "descricao": "Abscesso periapical no dente 36",
+            "recomendacao": "Drenagem e antibióticos"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c9a",
+        "consulta_id": "C005",
+        "data_consulta": "2025-04-25",
+        "observacoes": "Paciente com sensibilidade dentária ao frio.",
+        "paciente": {
+            "paciente_id": "P005",
+            "nome": "Fernanda Lima"
+        },
+        "dentista": {
+            "dentista_id": "D003",
+            "nome": "Dr. Carlos Mendes"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG005",
+            "descricao": "Hipersensibilidade dentinária",
+            "recomendacao": "Aplicação de flúor e orientação de higiene"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c9b",
+        "consulta_id": "C006",
+        "data_consulta": "2025-04-30",
+        "observacoes": "Paciente com dor ao morder.",
+        "paciente": {
+            "paciente_id": "P006",
+            "nome": "Ricardo Gomes"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG006",
+            "descricao": "Fratura dentária no dente 11",
+            "recomendacao": "Restauração com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c9c",
+        "consulta_id": "C007",
+        "data_consulta": "2025-05-05",
+        "observacoes": "Paciente com mau hálito persistente.",
+        "paciente": {
+            "paciente_id": "P007",
+            "nome": "Juliana Santos"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG007",
+            "descricao": "Halitose",
+            "recomendacao": "Orientação de higiene bucal e avaliação periodontal"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c9d",
+        "consulta_id": "C008",
+        "data_consulta": "2025-05-10",
+        "observacoes": "Paciente com dor na articulação temporomandibular.",
+        "paciente": {
+            "paciente_id": "P008",
+            "nome": "Marcos Almeida"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG008",
+            "descricao": "Disfunção da ATM",
+            "recomendacao": "Uso de placa oclusal e fisioterapia"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c9e",
+        "consulta_id": "C009",
+        "data_consulta": "2025-05-15",
+        "observacoes": "Paciente com dor ao mastigar.",
+        "paciente": {
+            "paciente_id": "P009",
+            "nome": "Tatiane Rocha"
+        },
+        "dentista": {
+            "dentista_id": "D003",
+            "nome": "Dr. Carlos Mendes"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG009",
+            "descricao": "Cárie dentária no dente 26",
+            "recomendacao": "Obturação com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2c9f",
+        "consulta_id": "C010",
+        "data_consulta": "2025-05-20",
+        "observacoes": "Paciente com dor de dente e febre.",
+        "paciente": {
+            "paciente_id": "P010",
+            "nome": "André Lima"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG010",
+            "descricao": "Pulpite aguda",
+            "recomendacao": "Tratamento de canal"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca0",
+        "consulta_id": "C011",
+        "data_consulta": "2025-05-25",
+        "observacoes": "Paciente com dor ao escovar os dentes.",
+        "paciente": {
+            "paciente_id": "P011",
+            "nome": "Roberta Martins"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG011",
+            "descricao": "Cárie dentária no dente 16",
+            "recomendacao": "Obturação com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca1",
+        "consulta_id": "C012",
+        "data_consulta": "2025-05-30",
+        "observacoes": "Paciente com dor na gengiva.",
+        "paciente": {
+            "paciente_id": "P012",
+            "nome": "Gustavo Ferreira"
+        },
+        "dentista": {
+            "dentista_id": "D003",
+            "nome": "Dr. Carlos Mendes"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG012",
+            "descricao": "Gengivite moderada",
+            "recomendacao": "Raspagem e orientação de higiene"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca2",
+        "consulta_id": "C013",
+        "data_consulta": "2025-06-05",
+        "observacoes": "Paciente com dor ao morder.",
+        "paciente": {
+            "paciente_id": "P013",
+            "nome": "Fernanda Costa"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG013",
+            "descricao": "Fratura dentária no dente 21",
+            "recomendacao": "Restauração com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca3",
+        "consulta_id": "C014",
+        "data_consulta": "2025-06-10",
+        "observacoes": "Paciente com dor de dente e inchaço na gengiva.",
+        "paciente": {
+            "paciente_id": "P014",
+            "nome": "Juliana Lima"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG014",
+            "descricao": "Abscesso periapical no dente 45",
+            "recomendacao": "Drenagem e antibióticos"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca4",
+        "consulta_id": "C015",
+        "data_consulta": "2025-06-15",
+        "observacoes": "Paciente com dor ao mastigar.",
+        "paciente": {
+            "paciente_id": "P015",
+            "nome": "Ricardo Santos"
+        },
+        "dentista": {
+            "dentista_id": "D003",
+            "nome": "Dr. Carlos Mendes"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG015",
+            "descricao": "Cárie dentária no dente 34",
+            "recomendacao": "Obturação com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca5",
+        "consulta_id": "C016",
+        "data_consulta": "2025-06-20",
+        "observacoes": "Paciente com mau hálito persistente.",
+        "paciente": {
+            "paciente_id": "P016",
+            "nome": "Tatiane Almeida"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG016",
+            "descricao": "Halitose",
+            "recomendacao": "Orientação de higiene bucal e avaliação periodontal"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca6",
+        "consulta_id": "C017",
+        "data_consulta": "2025-06-25",
+        "observacoes": "Paciente com dor na articulação temporomandibular.",
+        "paciente": {
+            "paciente_id": "P017",
+            "nome": "Marcos Ferreira"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG017",
+            "descricao": "Disfunção da ATM",
+            "recomendacao": "Uso de placa oclusal e fisioterapia"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca7",
+        "consulta_id": "C018",
+        "data_consulta": "2025-07-01",
+        "observacoes": "Paciente com dor ao escovar os dentes.",
+        "paciente": {
+            "paciente_id": "P018",
+            "nome": "Roberta Almeida"
+        },
+        "dentista": {
+            "dentista_id": "D003",
+            "nome": "Dr. Carlos Mendes"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG018",
+            "descricao": "Cárie dentária no dente 12",
+            "recomendacao": "Obturação com resina composta"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca8",
+        "consulta_id": "C019",
+        "data_consulta": "2025-07-05",
+        "observacoes": "Paciente com dor na gengiva.",
+        "paciente": {
+            "paciente_id": "P019",
+            "nome": "Gustavo Almeida"
+        },
+        "dentista": {
+            "dentista_id": "D001",
+            "nome": "Dr. João Silva"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG019",
+            "descricao": "Gengivite leve",
+            "recomendacao": "Raspagem e orientação de higiene"
+        }
+    },
+    {
+        "_id": "681917706c74f7df883c2ca9",
+        "consulta_id": "C020",
+        "data_consulta": "2025-07-10",
+        "observacoes": "Paciente com dor ao morder.",
+        "paciente": {
+            "paciente_id": "P020",
+            "nome": "Fernanda Almeida"
+        },
+        "dentista": {
+            "dentista_id": "D002",
+            "nome": "Dra. Ana Costa"
+        },
+        "diagnostico": {
+            "diagnostico_id": "DG020",
+            "descricao": "Fratura dentária no dente 31",
+            "recomendacao": "Restauração com resina composta"
+        }
+    }
+]

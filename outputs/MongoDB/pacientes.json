@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "681917886c74f7df883c2cbe",
+        "paciente_id": "P001",
+        "nome": "Maria Silva",
+        "data_nascimento": "1990-05-10",
+        "email": "maria.silva@email.com",
+        "telefone": "(11) 91234-5678",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cbf",
+        "paciente_id": "P002",
+        "nome": "Carlos Andrade",
+        "data_nascimento": "1982-07-22",
+        "email": "carlos.andrade@email.com",
+        "telefone": "(21) 99876-5432",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc0",
+        "paciente_id": "P003",
+        "nome": "Luciana Costa",
+        "data_nascimento": "1975-12-03",
+        "email": "luciana.costa@email.com",
+        "telefone": "(31) 98765-4321",
+        "plano_saude": {
+            "plano_id": "PL003",
+            "nome": "Plano Bronze",
+            "cobertura": "Básica",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc1",
+        "paciente_id": "P004",
+        "nome": "Roberto Lima",
+        "data_nascimento": "1995-03-15",
+        "email": "roberto.lima@email.com",
+        "telefone": "(41) 97654-3210",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc2",
+        "paciente_id": "P005",
+        "nome": "Vladimir Putin",
+        "data_nascimento": "1988-11-20",
+        "email": "vladimir.putin@email.com",
+        "telefone": "(51) 96543-2109",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc3",
+        "paciente_id": "P006",
+        "nome": "Angela Merkel",
+        "data_nascimento": "1984-01-30",
+        "email": "angela.merkel@email.com",
+        "telefone": "(61) 95432-1098",
+        "plano_saude": {
+            "plano_id": "PL003",
+            "nome": "Plano Bronze",
+            "cobertura": "Básica",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc4",
+        "paciente_id": "P007",
+        "nome": "Barack Obama",
+        "data_nascimento": "1961-08-04",
+        "email": "barack.obama@email.com",
+        "telefone": "(71) 94321-0987",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc5",
+        "paciente_id": "P008",
+        "nome": "Donald Trump",
+        "data_nascimento": "1946-06-14",
+        "email": "donald.trump@email.com",
+        "telefone": "(81) 93210-9876",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc6",
+        "paciente_id": "P009",
+        "nome": "Xi Jinping",
+        "data_nascimento": "1953-06-15",
+        "email": "xi.jinping@email.com",
+        "telefone": "(91) 92109-8765",
+        "plano_saude": {
+            "plano_id": "PL003",
+            "nome": "Plano Bronze",
+            "cobertura": "Básica",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc7",
+        "paciente_id": "P010",
+        "nome": "Narendra Modi",
+        "data_nascimento": "1950-09-17",
+        "email": "narendra.modi@email.com",
+        "telefone": "(11) 91098-7654",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc8",
+        "paciente_id": "P011",
+        "nome": "Emmanuel Macron",
+        "data_nascimento": "1977-12-21",
+        "email": "emmanuel.macron@email.com",
+        "telefone": "(21) 90987-6543",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cc9",
+        "paciente_id": "P012",
+        "nome": "Boris Johnson",
+        "data_nascimento": "1964-06-19",
+        "email": "boris.johnson@email.com",
+        "telefone": "(31) 89876-5432",
+        "plano_saude": {
+            "plano_id": "PL003",
+            "nome": "Plano Bronze",
+            "cobertura": "Básica",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cca",
+        "paciente_id": "P013",
+        "nome": "Justin Trudeau",
+        "data_nascimento": "1971-12-25",
+        "email": "justin.tradeau@email.com",
+        "telefone": "(41) 88765-4321",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2ccb",
+        "paciente_id": "P014",
+        "nome": "Jacinda Ardern",
+        "data_nascimento": "1980-07-26",
+        "email": "jacinda.arden@email.com",
+        "telefone": "(51) 87654-3210",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2ccc",
+        "paciente_id": "P015",
+        "nome": "Angela Davis",
+        "data_nascimento": "1944-01-26",
+        "email": "angela.davis@email.com",
+        "telefone": "(61) 86543-2109",
+        "plano_saude": {
+            "plano_id": "PL003",
+            "nome": "Plano Bronze",
+            "cobertura": "Básica",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2ccd",
+        "paciente_id": "P016",
+        "nome": "Greta Thunberg",
+        "data_nascimento": "2003-01-03",
+        "email": "greta.thunberg@email.com",
+        "telefone": "(71) 85432-1098",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cce",
+        "paciente_id": "P017",
+        "nome": "Malala Yousafzai",
+        "data_nascimento": "1997-07-12",
+        "email": "malala.yousafzai@email.com",
+        "telefone": "(81) 84321-0987",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2ccf",
+        "paciente_id": "P018",
+        "nome": "Elon Musk",
+        "data_nascimento": "1971-06-28",
+        "email": "elon.musk@email.com",
+        "telefone": "(91) 83210-9876",
+        "plano_saude": {
+            "plano_id": "PL003",
+            "nome": "Plano Bronze",
+            "cobertura": "Básica",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cd0",
+        "paciente_id": "P019",
+        "nome": "Bill Gates",
+        "data_nascimento": "1955-10-28",
+        "email": "bill.gates@email.com",
+        "telefone": "(11) 82109-8765",
+        "plano_saude": {
+            "plano_id": "PL001",
+            "nome": "Plano Ouro",
+            "cobertura": "Completa",
+            "ativo": true
+        }
+    },
+    {
+        "_id": "681917886c74f7df883c2cd1",
+        "paciente_id": "P020",
+        "nome": "Steve Jobs",
+        "data_nascimento": "1955-02-24",
+        "email": "steve.jobs@email.com",
+        "telefone": "(21) 81098-7654",
+        "plano_saude": {
+            "plano_id": "PL002",
+            "nome": "Plano Prata",
+            "cobertura": "Parcial",
+            "ativo": true
+        }
+    }
+]

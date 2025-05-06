@@ -1,0 +1,318 @@
+[
+    {
+        "_id": "681917796c74f7df883c2caa",
+        "dentista_id": "D001",
+        "nome": "Dr. João Silva",
+        "email": "joao.silva@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cab",
+        "dentista_id": "D002",
+        "nome": "Dra. Ana Beatriz",
+        "email": "ana.beatriz@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cac",
+        "dentista_id": "D003",
+        "nome": "Dr. Carlos Mendes",
+        "email": "carlos.mendes@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cad",
+        "dentista_id": "D004",
+        "nome": "Dra. Fernanda Lima",
+        "email": "fernanda.lima@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cae",
+        "dentista_id": "D005",
+        "nome": "Dr. Ricardo Almeida",
+        "email": "ricardo.almeida@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            },
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2caf",
+        "dentista_id": "D006",
+        "nome": "Dra. Juliana Costa",
+        "email": "juliana.costa@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb0",
+        "dentista_id": "D007",
+        "nome": "Dr. Felipe Rocha",
+        "email": "felipe.rocha@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            },
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb1",
+        "dentista_id": "D008",
+        "nome": "Dra. Mariana Santos",
+        "email": "mariana.santos@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb2",
+        "dentista_id": "D009",
+        "nome": "Dr. André Lima",
+        "email": "andre.lima@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb3",
+        "dentista_id": "D010",
+        "nome": "Dra. Paula Martins",
+        "email": "paula.martins@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb4",
+        "dentista_id": "D011",
+        "nome": "Dr. Gustavo Ferreira",
+        "email": "gustavo.ferreira@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb5",
+        "dentista_id": "D012",
+        "nome": "Dra. Tatiane Almeida",
+        "email": "tatiane.almeida@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb6",
+        "dentista_id": "D013",
+        "nome": "Dr. Leonardo Costa",
+        "email": "leonardo.costa@odontclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb7",
+        "dentista_id": "D014",
+        "nome": "Dra. Camila Santos",
+        "email": "camila.santos@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb8",
+        "dentista_id": "D015",
+        "nome": "Dr. Rafael Almeida",
+        "email": "rafael.almeida@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cb9",
+        "dentista_id": "D016",
+        "nome": "Dra. Beatriz Lima",
+        "email": "beatriz.lima@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cba",
+        "dentista_id": "D017",
+        "nome": "Dr. Felipe Mendes",
+        "email": "felipe.mendes@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cbb",
+        "dentista_id": "D018",
+        "nome": "Dra. Juliana Rocha",
+        "email": "juliana.rocha@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E02",
+                "nome": "Implantodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cbc",
+        "dentista_id": "D019",
+        "nome": "Dr. André Ferreira",
+        "email": "andre.ferreira@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            },
+            {
+                "especialidade_id": "E04",
+                "nome": "Periodontia"
+            }
+        ]
+    },
+    {
+        "_id": "681917796c74f7df883c2cbd",
+        "dentista_id": "D020",
+        "nome": "Dra. Mariana Almeida",
+        "email": "mariana.almeida@odontoclin.com",
+        "especialidades": [
+            {
+                "especialidade_id": "E01",
+                "nome": "Ortodontia"
+            },
+            {
+                "especialidade_id": "E03",
+                "nome": "Endodontia"
+            }
+        ]
+    }
+]

@@ -1,0 +1,201 @@
+ID_Paciente,Idade,Data_Consulta,Motivo_Consulta,Diagnóstico,Tratamento,Seguimento,Avaliacao,Medicamentos,Prognostico,Observacoes
+85,55,2022-10-31,Tratamento ortodôntico,Cárie,Aparelho ortodôntico,Sim,4,Ibuprofeno,Regular,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+59,33,2023-10-17,Limpeza,Gengivite,Antibióticos,Não,1,Ibuprofeno,Excelente,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+86,40,2023-06-13,Exame preventivo,Abscesso dental,Aparelho ortodôntico,Sim,4,Paracetamolo,Regular,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+53,36,2023-04-12,Infecção bucal,Periostite,Obturação,Não,4,Clorhexamina,Ótima,Paciente não apresenta sintomas. Recomenda-se tratamento. Evitar alimentos açucarados.
+20,40,2022-12-24,Limpeza,Gengivite,Antibióticos,Sim,2,Paracetamolo,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+68,63,2023-07-25,Dor de dente,Gengivite,Obturação,Sim,2,Metronidazol,Boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+20,65,2024-01-20,Infecção bucal,Gengivite,Antibióticos,Não,3,Paracetamolo,Excelente,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+73,55,2023-03-22,Dor de dente,Abscesso dental,Extração,Não,2,Paracetamolo,Boa,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+17,49,2023-02-14,Dor de dente,Gengivite,Obturação,Não,4,Ibuprofeno,Regular,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Manter alimentos açucarados.
+13,60,2024-07-24,Exame preventivo,Cárie,Aparelho ortodôntico,Sim,5,Paracetamolo,Excelente,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+66,23,2023-09-01,Infecção bucal,Abscesso dental,Limpeza profunda,Sim,1,Fluoxetina,Regular,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+34,31,2023-11-30,Dor de dente,Cárie,Extração,Não,3,Metronidazol,Ótima,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+57,19,2023-09-02,Tratamento ortodôntico,Periostite,Aparelho ortodôntico,Não,4,Paracetamolo,Excelente,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Manter alimentos açucarados.
+39,19,2024-07-04,Dor de dente,Cárie,Antibióticos,Não,3,Metronidazol,Regular,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+20,29,2024-08-27,Limpeza,Cárie,Limpeza profunda,Sim,5,Fluoxetina,Ótima,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+22,68,2024-03-04,Tratamento ortodôntico,Desalinhamento,Extração,Sim,5,Fluoxetina,Excelente,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+58,22,2024-08-07,Limpeza,Cárie,Extração,Sim,1,Paracetamolo,Regular,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Manter alimentos açucarados.
+12,47,2022-10-27,Limpeza,Abscesso dental,Obturação,Sim,4,Ibuprofeno,Regular,Paciente não apresenta sintomas. Recomenda-se tratamento. Manter alimentos açucarados.
+93,60,2024-02-28,Tratamento ortodôntico,Desalinhamento,Extração,Não,3,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+93,69,2024-03-09,Dor de dente,Periostite,Extração,Não,1,Fluoxetina,Regular,Paciente não apresenta sintomas. Recomenda-se exame adicional. Continuar alimentos açucarados.
+37,37,2024-10-06,Tratamento ortodôntico,Cárie,Extração,Não,5,Fluoxetina,Regular,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+67,38,2024-06-13,Limpeza,Abscesso dental,Antibióticos,Não,5,Clorhexamina,Regular,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+71,18,2024-03-14,Tratamento ortodôntico,Abscesso dental,Aparelho ortodôntico,Sim,3,Ibuprofeno,Regular,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+16,27,2022-11-15,Infecção bucal,Gengivite,Obturação,Sim,5,Clorhexamina,Excelente,Paciente não apresenta sintomas. Recomenda-se tratamento. Continuar alimentos açucarados.
+42,43,2023-12-14,Dor de dente,Gengivite,Aparelho ortodôntico,Não,5,Fluoxetina,Excelente,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+43,46,2024-04-08,Limpeza,Gengivite,Antibióticos,Não,2,Paracetamolo,Ótima,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+98,22,2023-04-05,Limpeza,Periostite,Obturação,Sim,1,Clorhexamina,Boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+91,32,2023-11-28,Tratamento ortodôntico,Abscesso dental,Obturação,Não,4,Metronidazol,Boa,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+33,20,2023-03-20,Dor de dente,Gengivite,Obturação,Sim,5,Fluoxetina,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+30,32,2023-06-08,Infecção bucal,Periostite,Aparelho ortodôntico,Sim,5,Fluoxetina,Muito boa,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+78,67,2023-08-20,Dor de dente,Cárie,Extração,Sim,5,Fluoxetina,Ótima,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+97,21,2024-04-11,Infecção bucal,Abscesso dental,Limpeza profunda,Não,1,Metronidazol,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Manter alimentos açucarados.
+54,46,2023-10-14,Dor de dente,Desalinhamento,Extração,Sim,1,Clorhexamina,Muito boa,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+80,24,2023-02-23,Infecção bucal,Cárie,Aparelho ortodôntico,Sim,1,Ibuprofeno,Excelente,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+86,42,2024-10-15,Limpeza,Desalinhamento,Obturação,Não,5,Ibuprofeno,Regular,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+95,47,2022-11-08,Infecção bucal,Cárie,Antibióticos,Não,1,Ibuprofeno,Regular,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+88,57,2024-03-09,Exame preventivo,Periostite,Aparelho ortodôntico,Não,5,Paracetamolo,Muito boa,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+52,29,2023-07-05,Limpeza,Desalinhamento,Extração,Não,4,Paracetamolo,Muito boa,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+20,39,2023-10-10,Exame preventivo,Desalinhamento,Limpeza profunda,Não,1,Clorhexamina,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+28,40,2024-01-30,Dor de dente,Gengivite,Limpeza profunda,Sim,2,Fluoxetina,Muito boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+41,21,2023-01-12,Limpeza,Gengivite,Limpeza profunda,Sim,4,Fluoxetina,Ótima,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+43,31,2023-04-29,Infecção bucal,Abscesso dental,Limpeza profunda,Sim,2,Paracetamolo,Boa,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+91,55,2023-12-29,Tratamento ortodôntico,Gengivite,Limpeza profunda,Sim,3,Fluoxetina,Regular,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.
+49,34,2023-04-23,Infecção bucal,Abscesso dental,Limpeza profunda,Sim,2,Ibuprofeno,Boa,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+14,59,2024-05-24,Limpeza,Cárie,Aparelho ortodôntico,Sim,4,Metronidazol,Ótima,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+31,35,2023-08-19,Limpeza,Periostite,Antibióticos,Sim,5,Ibuprofeno,Ótima,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+30,29,2023-11-07,Infecção bucal,Gengivite,Obturação,Sim,2,Metronidazol,Regular,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+92,22,2022-10-28,Limpeza,Cárie,Obturação,Não,1,Paracetamolo,Ótima,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+66,50,2024-01-15,Tratamento ortodôntico,Cárie,Limpeza profunda,Sim,5,Ibuprofeno,Ótima,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+18,64,2024-07-27,Infecção bucal,Desalinhamento,Extração,Sim,1,Paracetamolo,Boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+86,30,2023-10-02,Dor de dente,Abscesso dental,Aparelho ortodôntico,Sim,4,Ibuprofeno,Regular,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+2,54,2023-07-28,Dor de dente,Cárie,Obturação,Não,1,Ibuprofeno,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+7,31,2024-10-06,Infecção bucal,Cárie,Obturação,Não,3,Fluoxetina,Regular,Paciente tem dor. Recomenda-se acompanhamento. Manter alimentos açucarados.
+19,39,2023-10-02,Infecção bucal,Gengivite,Antibióticos,Sim,5,Fluoxetina,Ótima,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+100,63,2022-12-25,Exame preventivo,Desalinhamento,Aparelho ortodôntico,Não,3,Metronidazol,Muito boa,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+99,67,2024-02-19,Exame preventivo,Periostite,Limpeza profunda,Sim,3,Metronidazol,Regular,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+91,24,2023-08-19,Exame preventivo,Periostite,Antibióticos,Não,1,Paracetamolo,Muito boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+70,33,2023-10-28,Limpeza,Periostite,Obturação,Sim,1,Clorhexamina,Muito boa,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+89,62,2023-01-09,Dor de dente,Gengivite,Aparelho ortodôntico,Sim,3,Ibuprofeno,Boa,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+83,24,2023-10-12,Dor de dente,Desalinhamento,Obturação,Não,5,Paracetamolo,Boa,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+88,46,2024-01-31,Limpeza,Gengivite,Extração,Sim,4,Fluoxetina,Excelente,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+11,28,2022-12-05,Limpeza,Gengivite,Limpeza profunda,Sim,1,Paracetamolo,Muito boa,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+38,62,2024-02-21,Exame preventivo,Desalinhamento,Extração,Não,4,Paracetamolo,Ótima,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+44,30,2024-06-16,Exame preventivo,Gengivite,Limpeza profunda,Sim,2,Clorhexamina,Boa,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+49,47,2024-02-13,Limpeza,Abscesso dental,Obturação,Não,4,Clorhexamina,Ótima,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+67,58,2024-06-10,Tratamento ortodôntico,Abscesso dental,Obturação,Não,1,Ibuprofeno,Boa,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+28,35,2023-11-16,Dor de dente,Periostite,Antibióticos,Não,3,Clorhexamina,Excelente,Paciente não apresenta sintomas. Recomenda-se tratamento. Evitar alimentos açucarados.
+9,56,2023-04-12,Dor de dente,Periostite,Limpeza profunda,Sim,3,Fluoxetina,Boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+4,54,2024-01-14,Limpeza,Gengivite,Extração,Não,5,Ibuprofeno,Excelente,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+48,46,2023-07-12,Tratamento ortodôntico,Desalinhamento,Aparelho ortodôntico,Sim,5,Paracetamolo,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+7,49,2023-06-12,Exame preventivo,Periostite,Obturação,Não,2,Paracetamolo,Boa,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+79,33,2023-02-04,Tratamento ortodôntico,Desalinhamento,Obturação,Não,3,Fluoxetina,Regular,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Manter alimentos açucarados.
+78,22,2023-01-17,Dor de dente,Cárie,Obturação,Não,4,Fluoxetina,Regular,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+45,41,2023-02-06,Tratamento ortodôntico,Periostite,Antibióticos,Não,4,Metronidazol,Regular,Paciente tem dor. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+12,47,2024-03-14,Infecção bucal,Periostite,Limpeza profunda,Sim,4,Ibuprofeno,Excelente,Paciente não apresenta sintomas. Recomenda-se tratamento. Continuar alimentos açucarados.
+76,59,2024-03-05,Tratamento ortodôntico,Cárie,Antibióticos,Sim,3,Clorhexamina,Ótima,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+79,40,2024-03-14,Limpeza,Gengivite,Aparelho ortodôntico,Não,1,Fluoxetina,Muito boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+12,33,2024-04-30,Limpeza,Cárie,Extração,Sim,4,Fluoxetina,Ótima,Paciente está bem. Recomenda-se tratamento. Evitar alimentos açucarados.
+52,63,2023-03-17,Dor de dente,Desalinhamento,Obturação,Não,5,Paracetamolo,Excelente,Paciente não apresenta sintomas. Recomenda-se tratamento. Evitar alimentos açucarados.
+98,25,2024-04-12,Tratamento ortodôntico,Desalinhamento,Antibióticos,Não,1,Metronidazol,Muito boa,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.
+41,65,2023-05-22,Infecção bucal,Periostite,Obturação,Não,1,Fluoxetina,Regular,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+73,63,2024-09-18,Tratamento ortodôntico,Abscesso dental,Aparelho ortodôntico,Sim,5,Ibuprofeno,Muito boa,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+79,49,2024-01-11,Limpeza,Periostite,Obturação,Não,5,Fluoxetina,Boa,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+95,40,2023-06-23,Limpeza,Periostite,Extração,Não,4,Ibuprofeno,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+42,34,2022-11-22,Dor de dente,Abscesso dental,Obturação,Sim,4,Metronidazol,Boa,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+85,53,2024-05-16,Infecção bucal,Cárie,Obturação,Não,1,Paracetamolo,Ótima,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+76,42,2023-03-28,Exame preventivo,Periostite,Extração,Sim,5,Ibuprofeno,Excelente,Paciente não apresenta sintomas. Recomenda-se exame adicional. Continuar alimentos açucarados.
+64,54,2024-01-29,Limpeza,Abscesso dental,Obturação,Sim,4,Paracetamolo,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+6,31,2023-04-10,Exame preventivo,Periostite,Extração,Sim,1,Metronidazol,Ótima,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+98,31,2023-02-11,Tratamento ortodôntico,Desalinhamento,Aparelho ortodôntico,Não,4,Paracetamolo,Muito boa,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+86,51,2024-05-18,Dor de dente,Cárie,Obturação,Sim,4,Paracetamolo,Regular,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+55,45,2023-04-27,Exame preventivo,Periostite,Obturação,Não,3,Paracetamolo,Regular,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+31,32,2024-05-26,Infecção bucal,Abscesso dental,Aparelho ortodôntico,Não,3,Paracetamolo,Muito boa,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.
+18,69,2022-11-21,Dor de dente,Desalinhamento,Aparelho ortodôntico,Não,5,Ibuprofeno,Regular,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+96,20,2024-09-01,Limpeza,Periostite,Limpeza profunda,Sim,5,Ibuprofeno,Boa,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+15,51,2024-10-18,Limpeza,Abscesso dental,Extração,Não,1,Paracetamolo,Excelente,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+67,63,2024-09-23,Dor de dente,Desalinhamento,Extração,Não,5,Metronidazol,Ótima,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Manter alimentos açucarados.
+12,45,2024-03-05,Infecção bucal,Periostite,Aparelho ortodôntico,Não,3,Ibuprofeno,Boa,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+45,37,2023-08-07,Exame preventivo,Cárie,Extração,Não,1,Fluoxetina,Boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+7,27,2024-06-27,Exame preventivo,Cárie,Limpeza profunda,Não,2,Fluoxetina,Regular,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+19,18,2023-12-24,Limpeza,Cárie,Obturação,Não,5,Fluoxetina,Ótima,Paciente não apresenta sintomas. Recomenda-se exame adicional. Continuar alimentos açucarados.
+49,30,2023-02-20,Exame preventivo,Cárie,Aparelho ortodôntico,Não,2,Clorhexamina,Ótima,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+20,23,2024-08-15,Tratamento ortodôntico,Desalinhamento,Aparelho ortodôntico,Sim,5,Paracetamolo,Regular,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+99,62,2024-06-30,Tratamento ortodôntico,Desalinhamento,Extração,Não,1,Ibuprofeno,Muito boa,Paciente tem dor. Recomenda-se acompanhamento. Manter alimentos açucarados.
+92,20,2024-08-16,Exame preventivo,Abscesso dental,Limpeza profunda,Sim,1,Ibuprofeno,Muito boa,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+90,22,2023-08-11,Limpeza,Cárie,Antibióticos,Não,2,Metronidazol,Boa,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+57,22,2023-07-04,Infecção bucal,Gengivite,Limpeza profunda,Sim,4,Metronidazol,Excelente,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+47,37,2024-05-11,Limpeza,Periostite,Limpeza profunda,Sim,4,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+2,27,2024-05-24,Infecção bucal,Abscesso dental,Antibióticos,Não,5,Fluoxetina,Excelente,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+96,57,2024-09-13,Infecção bucal,Cárie,Aparelho ortodôntico,Sim,1,Metronidazol,Regular,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+74,20,2024-05-22,Exame preventivo,Abscesso dental,Aparelho ortodôntico,Não,5,Clorhexamina,Muito boa,Paciente tem dor. Recomenda-se tratamento. Manter alimentos açucarados.
+60,44,2023-12-22,Dor de dente,Gengivite,Antibióticos,Sim,2,Clorhexamina,Regular,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+11,54,2023-05-30,Dor de dente,Cárie,Obturação,Sim,2,Clorhexamina,Boa,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.
+67,57,2024-04-22,Dor de dente,Periostite,Antibióticos,Sim,3,Metronidazol,Regular,Paciente está bem. Recomenda-se tratamento. Evitar alimentos açucarados.
+32,57,2024-10-16,Infecção bucal,Cárie,Obturação,Sim,1,Clorhexamina,Ótima,Paciente está bem. Recomenda-se tratamento. Evitar alimentos açucarados.
+47,33,2023-12-26,Tratamento ortodôntico,Desalinhamento,Limpeza profunda,Sim,3,Paracetamolo,Muito boa,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+80,58,2024-02-21,Infecção bucal,Desalinhamento,Extração,Não,2,Fluoxetina,Regular,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+13,47,2024-09-05,Dor de dente,Desalinhamento,Limpeza profunda,Não,3,Ibuprofeno,Boa,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+25,59,2024-06-28,Tratamento ortodôntico,Periostite,Extração,Não,3,Ibuprofeno,Excelente,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+43,34,2023-09-03,Exame preventivo,Periostite,Obturação,Sim,5,Fluoxetina,Boa,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+61,60,2024-01-02,Limpeza,Gengivite,Extração,Não,2,Metronidazol,Muito boa,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+38,69,2023-05-18,Limpeza,Gengivite,Antibióticos,Não,1,Ibuprofeno,Muito boa,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+33,54,2023-12-13,Limpeza,Periostite,Obturação,Não,4,Ibuprofeno,Muito boa,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+14,29,2023-01-18,Exame preventivo,Desalinhamento,Obturação,Sim,1,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se tratamento. Evitar alimentos açucarados.
+88,35,2023-12-28,Tratamento ortodôntico,Periostite,Antibióticos,Não,5,Fluoxetina,Ótima,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+65,38,2023-01-29,Dor de dente,Gengivite,Extração,Sim,2,Clorhexamina,Ótima,Paciente está bem. Recomenda-se tratamento. Evitar alimentos açucarados.
+65,38,2023-09-03,Dor de dente,Gengivite,Obturação,Não,2,Fluoxetina,Boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+48,63,2023-10-18,Dor de dente,Gengivite,Limpeza profunda,Não,2,Ibuprofeno,Regular,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+44,50,2024-01-05,Exame preventivo,Periostite,Extração,Não,2,Ibuprofeno,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+15,20,2023-10-26,Limpeza,Cárie,Extração,Sim,4,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se tratamento. Continuar alimentos açucarados.
+23,43,2023-04-28,Infecção bucal,Desalinhamento,Obturação,Não,2,Paracetamolo,Excelente,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+58,37,2023-06-21,Dor de dente,Gengivite,Antibióticos,Sim,3,Metronidazol,Regular,Paciente não apresenta sintomas. Recomenda-se tratamento. Continuar alimentos açucarados.
+61,34,2024-03-05,Dor de dente,Periostite,Limpeza profunda,Sim,5,Fluoxetina,Muito boa,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+8,64,2023-09-17,Limpeza,Cárie,Aparelho ortodôntico,Sim,3,Clorhexamina,Ótima,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+86,21,2023-12-15,Limpeza,Cárie,Extração,Não,2,Metronidazol,Boa,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+8,35,2024-08-05,Tratamento ortodôntico,Periostite,Antibióticos,Sim,1,Metronidazol,Regular,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+6,66,2023-04-03,Tratamento ortodôntico,Gengivite,Limpeza profunda,Não,1,Paracetamolo,Boa,Paciente não apresenta sintomas. Recomenda-se tratamento. Evitar alimentos açucarados.
+56,36,2024-06-28,Infecção bucal,Cárie,Limpeza profunda,Não,4,Ibuprofeno,Boa,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+99,50,2024-04-15,Exame preventivo,Cárie,Limpeza profunda,Não,4,Paracetamolo,Muito boa,Paciente não apresenta sintomas. Recomenda-se tratamento. Continuar alimentos açucarados.
+14,63,2023-11-19,Infecção bucal,Cárie,Antibióticos,Não,5,Clorhexamina,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+36,59,2022-10-30,Tratamento ortodôntico,Gengivite,Limpeza profunda,Sim,4,Fluoxetina,Muito boa,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+2,48,2024-07-12,Tratamento ortodôntico,Desalinhamento,Aparelho ortodôntico,Sim,5,Clorhexamina,Boa,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+38,67,2022-11-07,Dor de dente,Periostite,Obturação,Não,5,Metronidazol,Boa,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+69,51,2024-03-16,Dor de dente,Gengivite,Extração,Não,1,Fluoxetina,Ótima,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+33,38,2023-10-14,Tratamento ortodôntico,Cárie,Aparelho ortodôntico,Não,4,Clorhexamina,Excelente,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+37,51,2023-12-05,Exame preventivo,Cárie,Limpeza profunda,Sim,2,Metronidazol,Excelente,Paciente está bem. Recomenda-se tratamento. Evitar alimentos açucarados.
+29,30,2023-10-04,Tratamento ortodôntico,Abscesso dental,Limpeza profunda,Não,5,Fluoxetina,Excelente,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+29,26,2023-01-22,Exame preventivo,Cárie,Extração,Sim,5,Metronidazol,Excelente,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.
+69,53,2023-05-16,Tratamento ortodôntico,Periostite,Limpeza profunda,Não,3,Paracetamolo,Boa,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+22,34,2023-04-07,Infecção bucal,Periostite,Extração,Não,1,Ibuprofeno,Ótima,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+20,46,2024-06-09,Dor de dente,Abscesso dental,Aparelho ortodôntico,Sim,5,Ibuprofeno,Regular,Paciente não apresenta sintomas. Recomenda-se tratamento. Manter alimentos açucarados.
+75,66,2023-08-25,Tratamento ortodôntico,Desalinhamento,Aparelho ortodôntico,Não,4,Fluoxetina,Excelente,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+80,68,2024-06-22,Limpeza,Cárie,Aparelho ortodôntico,Não,3,Paracetamolo,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Manter alimentos açucarados.
+20,34,2023-04-13,Infecção bucal,Gengivite,Aparelho ortodôntico,Não,2,Ibuprofeno,Boa,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+60,35,2022-11-24,Limpeza,Gengivite,Obturação,Sim,1,Fluoxetina,Excelente,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+35,42,2024-07-28,Tratamento ortodôntico,Abscesso dental,Limpeza profunda,Não,3,Ibuprofeno,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Manter alimentos açucarados.
+9,55,2024-04-15,Dor de dente,Desalinhamento,Antibióticos,Sim,1,Fluoxetina,Boa,Paciente tem dor. Recomenda-se exame adicional. Evitar alimentos açucarados.
+51,58,2023-02-16,Exame preventivo,Cárie,Obturação,Sim,1,Clorhexamina,Ótima,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+19,57,2024-10-05,Tratamento ortodôntico,Desalinhamento,Obturação,Sim,5,Ibuprofeno,Regular,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.
+57,59,2023-01-14,Tratamento ortodôntico,Gengivite,Extração,Não,5,Fluoxetina,Regular,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+1,68,2022-11-07,Infecção bucal,Desalinhamento,Aparelho ortodôntico,Não,3,Paracetamolo,Excelente,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Manter alimentos açucarados.
+98,35,2023-09-27,Tratamento ortodôntico,Gengivite,Antibióticos,Não,1,Ibuprofeno,Ótima,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+32,57,2024-06-18,Limpeza,Gengivite,Extração,Não,5,Clorhexamina,Excelente,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+92,31,2023-03-22,Limpeza,Gengivite,Extração,Não,5,Paracetamolo,Boa,Paciente não apresenta sintomas. Recomenda-se tratamento. Continuar alimentos açucarados.
+76,34,2024-06-10,Infecção bucal,Periostite,Antibióticos,Sim,1,Fluoxetina,Excelente,Paciente está bem. Recomenda-se tratamento. Evitar alimentos açucarados.
+77,49,2024-01-22,Tratamento ortodôntico,Cárie,Obturação,Sim,1,Ibuprofeno,Regular,Paciente não apresenta sintomas. Recomenda-se exame adicional. Continuar alimentos açucarados.
+3,61,2023-07-26,Dor de dente,Cárie,Antibióticos,Não,5,Clorhexamina,Muito boa,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+70,31,2024-06-14,Tratamento ortodôntico,Cárie,Aparelho ortodôntico,Não,3,Metronidazol,Ótima,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+14,57,2024-03-29,Limpeza,Abscesso dental,Aparelho ortodôntico,Sim,3,Clorhexamina,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+63,37,2023-02-21,Limpeza,Desalinhamento,Aparelho ortodôntico,Sim,4,Clorhexamina,Excelente,Paciente não apresenta sintomas. Recomenda-se exame adicional. Continuar alimentos açucarados.
+25,26,2024-07-27,Tratamento ortodôntico,Cárie,Aparelho ortodôntico,Sim,2,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+84,67,2023-02-07,Infecção bucal,Desalinhamento,Aparelho ortodôntico,Não,3,Paracetamolo,Regular,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+42,57,2024-04-04,Dor de dente,Desalinhamento,Extração,Não,3,Metronidazol,Excelente,Paciente está bem. Recomenda-se tratamento. Manter alimentos açucarados.
+96,34,2023-12-19,Limpeza,Abscesso dental,Limpeza profunda,Não,2,Fluoxetina,Regular,Paciente está bem. Recomenda-se exame adicional. Manter alimentos açucarados.
+17,27,2024-05-06,Dor de dente,Desalinhamento,Limpeza profunda,Não,2,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+81,21,2024-07-06,Exame preventivo,Gengivite,Extração,Não,4,Metronidazol,Excelente,Paciente não apresenta sintomas. Recomenda-se exame adicional. Manter alimentos açucarados.
+63,50,2024-03-24,Dor de dente,Periostite,Aparelho ortodôntico,Sim,1,Paracetamolo,Ótima,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+53,36,2023-05-01,Exame preventivo,Gengivite,Antibióticos,Não,4,Paracetamolo,Ótima,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+98,46,2024-01-02,Tratamento ortodôntico,Abscesso dental,Extração,Não,2,Metronidazol,Muito boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+83,25,2024-06-15,Dor de dente,Abscesso dental,Antibióticos,Não,3,Clorhexamina,Ótima,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+55,62,2023-09-15,Exame preventivo,Periostite,Aparelho ortodôntico,Não,3,Fluoxetina,Muito boa,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+34,45,2022-11-09,Tratamento ortodôntico,Gengivite,Limpeza profunda,Sim,4,Clorhexamina,Regular,Paciente não apresenta sintomas. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+14,69,2023-09-20,Limpeza,Cárie,Obturação,Sim,2,Metronidazol,Regular,Paciente tem dor. Recomenda-se tratamento. Evitar alimentos açucarados.
+100,54,2024-09-09,Tratamento ortodôntico,Desalinhamento,Aparelho ortodôntico,Não,2,Paracetamolo,Muito boa,Paciente tem dor. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+81,55,2023-05-28,Limpeza,Desalinhamento,Extração,Sim,3,Fluoxetina,Boa,Paciente está bem. Recomenda-se exame adicional. Continuar alimentos açucarados.
+74,38,2023-10-19,Dor de dente,Gengivite,Aparelho ortodôntico,Não,1,Fluoxetina,Boa,Paciente está bem. Recomenda-se tratamento. Continuar alimentos açucarados.
+34,30,2023-08-07,Infecção bucal,Abscesso dental,Aparelho ortodôntico,Sim,5,Fluoxetina,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Continuar alimentos açucarados.
+2,31,2024-10-17,Tratamento ortodôntico,Gengivite,Obturação,Sim,5,Metronidazol,Boa,Paciente tem dor. Recomenda-se tratamento. Continuar alimentos açucarados.
+5,19,2024-04-08,Infecção bucal,Cárie,Aparelho ortodôntico,Não,2,Metronidazol,Ótima,Paciente não apresenta sintomas. Recomenda-se tratamento. Manter alimentos açucarados.
+100,28,2022-12-09,Infecção bucal,Gengivite,Aparelho ortodôntico,Sim,5,Fluoxetina,Ótima,Paciente não apresenta sintomas. Recomenda-se tratamento. Evitar alimentos açucarados.
+92,44,2023-10-26,Dor de dente,Desalinhamento,Limpeza profunda,Sim,4,Fluoxetina,Regular,Paciente tem dor. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+88,35,2024-05-04,Dor de dente,Abscesso dental,Aparelho ortodôntico,Não,3,Metronidazol,Ótima,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+77,21,2023-09-19,Exame preventivo,Desalinhamento,Limpeza profunda,Sim,2,Ibuprofeno,Ótima,Paciente não apresenta sintomas. Recomenda-se tratamento. Manter alimentos açucarados.
+7,33,2023-10-29,Dor de dente,Periostite,Obturação,Não,4,Ibuprofeno,Ótima,Paciente está bem. Recomenda-se acompanhamento. Manter alimentos açucarados.
+66,40,2023-12-31,Dor de dente,Periostite,Obturação,Não,4,Paracetamolo,Ótima,Paciente não apresenta sintomas. Recomenda-se tratamento. Manter alimentos açucarados.
+70,63,2023-12-01,Infecção bucal,Periostite,Limpeza profunda,Não,2,Metronidazol,Boa,Paciente não apresenta sintomas. Recomenda-se exame adicional. Evitar alimentos açucarados.
+78,39,2024-09-09,Tratamento ortodôntico,Desalinhamento,Limpeza profunda,Não,2,Metronidazol,Boa,Paciente está bem. Recomenda-se exame adicional. Evitar alimentos açucarados.
+80,43,2024-06-30,Infecção bucal,Cárie,Limpeza profunda,Sim,4,Metronidazol,Muito boa,Paciente está bem. Recomenda-se acompanhamento. Evitar alimentos açucarados.
+73,55,2023-06-24,Tratamento ortodôntico,Gengivite,Antibióticos,Sim,2,Ibuprofeno,Ótima,Paciente tem dor. Recomenda-se exame adicional. Continuar alimentos açucarados.
+25,18,2022-10-31,Exame preventivo,Gengivite,Aparelho ortodôntico,Sim,1,Fluoxetina,Excelente,Paciente tem dor. Recomenda-se exame adicional. Manter alimentos açucarados.

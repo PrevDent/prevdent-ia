@@ -1,0 +1,267 @@
+[
+    {
+        "_id": "6819178f6c74f7df883c2cd2",
+        "sinistro_id": "S001",
+        "data_sinistro": "2025-03-20",
+        "valor": 650,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG001",
+                "descricao": "Cárie dentária no dente 46",
+                "consulta_id": "C001"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd3",
+        "sinistro_id": "S002",
+        "data_sinistro": "2025-04-02",
+        "valor": 1200,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG002",
+                "descricao": "Gengivite leve",
+                "consulta_id": "C002"
+            },
+            {
+                "diagnostico_id": "DG005",
+                "descricao": "Placa bacteriana extensa",
+                "consulta_id": "C008"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd4",
+        "sinistro_id": "S003",
+        "data_sinistro": "2025-04-12",
+        "valor": 2300,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG003",
+                "descricao": "Mordida cruzada anterior",
+                "consulta_id": "C003"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd5",
+        "sinistro_id": "S004",
+        "data_sinistro": "2025-04-22",
+        "valor": 1500,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG004",
+                "descricao": "Abscesso periapical",
+                "consulta_id": "C004"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd6",
+        "sinistro_id": "S005",
+        "data_sinistro": "2025-05-01",
+        "valor": 800,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG006",
+                "descricao": "Fratura de dente",
+                "consulta_id": "C005"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd7",
+        "sinistro_id": "S006",
+        "data_sinistro": "2025-05-10",
+        "valor": 950,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG007",
+                "descricao": "Tratamento de canal no dente 21",
+                "consulta_id": "C006"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd8",
+        "sinistro_id": "S007",
+        "data_sinistro": "2025-05-15",
+        "valor": 500,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG008",
+                "descricao": "Limpeza dental",
+                "consulta_id": "C007"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cd9",
+        "sinistro_id": "S008",
+        "data_sinistro": "2025-05-20",
+        "valor": 1100,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG009",
+                "descricao": "Extração do dente 38",
+                "consulta_id": "C009"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cda",
+        "sinistro_id": "S009",
+        "data_sinistro": "2025-05-25",
+        "valor": 700,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG010",
+                "descricao": "Restauração de dente",
+                "consulta_id": "C010"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cdb",
+        "sinistro_id": "S010",
+        "data_sinistro": "2025-06-01",
+        "valor": 1300,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG011",
+                "descricao": "Tratamento ortodôntico",
+                "consulta_id": "C011"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cdc",
+        "sinistro_id": "S011",
+        "data_sinistro": "2025-06-10",
+        "valor": 900,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG012",
+                "descricao": "Clareamento dental",
+                "consulta_id": "C012"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cdd",
+        "sinistro_id": "S012",
+        "data_sinistro": "2025-06-15",
+        "valor": 400,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG013",
+                "descricao": "Consulta de rotina",
+                "consulta_id": "C013"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cde",
+        "sinistro_id": "S013",
+        "data_sinistro": "2025-06-20",
+        "valor": 850,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG014",
+                "descricao": "Tratamento de gengivite",
+                "consulta_id": "C014"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2cdf",
+        "sinistro_id": "S014",
+        "data_sinistro": "2025-06-25",
+        "valor": 1200,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG015",
+                "descricao": "Implante dentário",
+                "consulta_id": "C015"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2ce0",
+        "sinistro_id": "S015",
+        "data_sinistro": "2025-07-01",
+        "valor": 600,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG016",
+                "descricao": "Tratamento de periodontite",
+                "consulta_id": "C016"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2ce1",
+        "sinistro_id": "S016",
+        "data_sinistro": "2025-07-10",
+        "valor": 1100,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG017",
+                "descricao": "Restauração de canal",
+                "consulta_id": "C017"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2ce2",
+        "sinistro_id": "S017",
+        "data_sinistro": "2025-07-15",
+        "valor": 750,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG018",
+                "descricao": "Tratamento de bruxismo",
+                "consulta_id": "C018"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2ce3",
+        "sinistro_id": "S018",
+        "data_sinistro": "2025-07-20",
+        "valor": 950,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG019",
+                "descricao": "Aparelho ortodôntico removível",
+                "consulta_id": "C019"
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2ce4",
+        "sinistro_id": "S019",
+        "data_sinistro": "2025-07-25",
+        "valor": 1300,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG020",
+                "descricao": "Tratamento de fluorose dentária",
+                "consulta_id": null
+            }
+        ]
+    },
+    {
+        "_id": "6819178f6c74f7df883c2ce5",
+        "sinistro_id": "S020",
+        "data_sinistro": "2025-08-01",
+        "valor": 800,
+        "diagnosticos": [
+            {
+                "diagnostico_id": "DG021",
+                "descricao": "Tratamento de hipersensibilidade dentária",
+                "consulta_id": null
+            }
+        ]
+    }
+]
