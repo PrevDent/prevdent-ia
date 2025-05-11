@@ -1,21 +1,5 @@
 [
     {
-        "_id": "681917796c74f7df883c2caa",
-        "dentista_id": "D001",
-        "nome": "Dr. João Silva",
-        "email": "joao.silva@odontoclin.com",
-        "especialidades": [
-            {
-                "especialidade_id": "E01",
-                "nome": "Ortodontia"
-            },
-            {
-                "especialidade_id": "E02",
-                "nome": "Implantodontia"
-            }
-        ]
-    },
-    {
         "_id": "681917796c74f7df883c2cab",
         "dentista_id": "D002",
         "nome": "Dra. Ana Beatriz",

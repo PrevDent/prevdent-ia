@@ -1,0 +1,1227 @@
+[
+  {
+    "_id": "681917706c74f7df883c2c97",
+    "consulta_id": "C002",
+    "data_consulta": "2025-04-15",
+    "observacoes": "Paciente com sangramento gengival ao escovar os dentes.",
+    "paciente": {
+      "paciente_id": "P002",
+      "nome": "José Oliveira"
+    },
+    "dentista": {
+      "dentista_id": "D003",
+      "nome": "Dr. Carlos Mendes"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG002",
+      "descricao": "Gengivite leve",
+      "recomendacao": "Raspagem e orientação de higiene"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c98",
+    "consulta_id": "C003",
+    "data_consulta": "2025-04-18",
+    "observacoes": "Paciente deseja iniciar tratamento ortodôntico.",
+    "paciente": {
+      "paciente_id": "P003",
+      "nome": "Ana Paula Souza"
+    },
+    "dentista": {
+      "dentista_id": "D001",
+      "nome": "Dr. João Silva"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG003",
+      "descricao": "Mordida cruzada anterior",
+      "recomendacao": "Instalação de aparelho ortodôntico fixo"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c99",
+    "consulta_id": "C004",
+    "data_consulta": "2025-04-20",
+    "observacoes": "Paciente com dor de dente e inchaço na gengiva.",
+    "paciente": {
+      "paciente_id": "P004",
+      "nome": "Lucas Pereira"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG004",
+      "descricao": "Abscesso periapical no dente 36",
+      "recomendacao": "Drenagem e antibióticos"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c9a",
+    "consulta_id": "C005",
+    "data_consulta": "2025-04-25",
+    "observacoes": "Paciente com sensibilidade dentária ao frio.",
+    "paciente": {
+      "paciente_id": "P005",
+      "nome": "Fernanda Lima"
+    },
+    "dentista": {
+      "dentista_id": "D003",
+      "nome": "Dr. Carlos Mendes"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG005",
+      "descricao": "Hipersensibilidade dentinária",
+      "recomendacao": "Aplicação de flúor e orientação de higiene"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c9b",
+    "consulta_id": "C006",
+    "data_consulta": "2025-04-30",
+    "observacoes": "Paciente com dor ao morder.",
+    "paciente": {
+      "paciente_id": "P006",
+      "nome": "Ricardo Gomes"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG006",
+      "descricao": "Fratura dentária no dente 11",
+      "recomendacao": "Restauração com resina composta"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c9c",
+    "consulta_id": "C007",
+    "data_consulta": "2025-05-05",
+    "observacoes": "Paciente com mau hálito persistente.",
+    "paciente": {
+      "paciente_id": "P007",
+      "nome": "Juliana Santos"
+    },
+    "dentista": {
+      "dentista_id": "D001",
+      "nome": "Dr. João Silva"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG007",
+      "descricao": "Halitose",
+      "recomendacao": "Orientação de higiene bucal e avaliação periodontal"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c9d",
+    "consulta_id": "C008",
+    "data_consulta": "2025-05-10",
+    "observacoes": "Paciente com dor na articulação temporomandibular.",
+    "paciente": {
+      "paciente_id": "P008",
+      "nome": "Marcos Almeida"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG008",
+      "descricao": "Disfunção da ATM",
+      "recomendacao": "Uso de placa oclusal e fisioterapia"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c9e",
+    "consulta_id": "C009",
+    "data_consulta": "2025-05-15",
+    "observacoes": "Paciente com dor ao mastigar.",
+    "paciente": {
+      "paciente_id": "P009",
+      "nome": "Tatiane Rocha"
+    },
+    "dentista": {
+      "dentista_id": "D003",
+      "nome": "Dr. Carlos Mendes"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG009",
+      "descricao": "Cárie dentária no dente 26",
+      "recomendacao": "Obturação com resina composta"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2c9f",
+    "consulta_id": "C010",
+    "data_consulta": "2025-05-20",
+    "observacoes": "Paciente com dor de dente e febre.",
+    "paciente": {
+      "paciente_id": "P010",
+      "nome": "André Lima"
+    },
+    "dentista": {
+      "dentista_id": "D001",
+      "nome": "Dr. João Silva"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG010",
+      "descricao": "Pulpite aguda",
+      "recomendacao": "Tratamento de canal"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca0",
+    "consulta_id": "C011",
+    "data_consulta": "2025-05-25",
+    "observacoes": "Paciente com dor ao escovar os dentes.",
+    "paciente": {
+      "paciente_id": "P011",
+      "nome": "Roberta Martins"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG011",
+      "descricao": "Cárie dentária no dente 16",
+      "recomendacao": "Obturação com resina composta"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca1",
+    "consulta_id": "C012",
+    "data_consulta": "2025-05-30",
+    "observacoes": "Paciente com dor na gengiva.",
+    "paciente": {
+      "paciente_id": "P012",
+      "nome": "Gustavo Ferreira"
+    },
+    "dentista": {
+      "dentista_id": "D003",
+      "nome": "Dr. Carlos Mendes"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG012",
+      "descricao": "Gengivite moderada",
+      "recomendacao": "Raspagem e orientação de higiene"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca2",
+    "consulta_id": "C013",
+    "data_consulta": "2025-06-05",
+    "observacoes": "Paciente com dor ao morder.",
+    "paciente": {
+      "paciente_id": "P013",
+      "nome": "Fernanda Costa"
+    },
+    "dentista": {
+      "dentista_id": "D001",
+      "nome": "Dr. João Silva"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG013",
+      "descricao": "Fratura dentária no dente 21",
+      "recomendacao": "Restauração com resina composta"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca3",
+    "consulta_id": "C014",
+    "data_consulta": "2025-06-10",
+    "observacoes": "Paciente com dor de dente e inchaço na gengiva.",
+    "paciente": {
+      "paciente_id": "P014",
+      "nome": "Juliana Lima"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG014",
+      "descricao": "Abscesso periapical no dente 45",
+      "recomendacao": "Drenagem e antibióticos"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca4",
+    "consulta_id": "C015",
+    "data_consulta": "2025-06-15",
+    "observacoes": "Paciente com dor ao mastigar.",
+    "paciente": {
+      "paciente_id": "P015",
+      "nome": "Ricardo Santos"
+    },
+    "dentista": {
+      "dentista_id": "D003",
+      "nome": "Dr. Carlos Mendes"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG015",
+      "descricao": "Cárie dentária no dente 34",
+      "recomendacao": "Obturação com resina composta"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca5",
+    "consulta_id": "C016",
+    "data_consulta": "2025-06-20",
+    "observacoes": "Paciente com mau hálito persistente.",
+    "paciente": {
+      "paciente_id": "P016",
+      "nome": "Tatiane Almeida"
+    },
+    "dentista": {
+      "dentista_id": "D001",
+      "nome": "Dr. João Silva"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG016",
+      "descricao": "Halitose",
+      "recomendacao": "Orientação de higiene bucal e avaliação periodontal"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca6",
+    "consulta_id": "C017",
+    "data_consulta": "2025-06-25",
+    "observacoes": "Paciente com dor na articulação temporomandibular.",
+    "paciente": {
+      "paciente_id": "P017",
+      "nome": "Marcos Ferreira"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG017",
+      "descricao": "Disfunção da ATM",
+      "recomendacao": "Uso de placa oclusal e fisioterapia"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca7",
+    "consulta_id": "C018",
+    "data_consulta": "2025-07-01",
+    "observacoes": "Paciente com dor ao escovar os dentes.",
+    "paciente": {
+      "paciente_id": "P018",
+      "nome": "Roberta Almeida"
+    },
+    "dentista": {
+      "dentista_id": "D003",
+      "nome": "Dr. Carlos Mendes"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG018",
+      "descricao": "Cárie dentária no dente 12",
+      "recomendacao": "Obturação com resina composta"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca8",
+    "consulta_id": "C019",
+    "data_consulta": "2025-07-05",
+    "observacoes": "Paciente com dor na gengiva.",
+    "paciente": {
+      "paciente_id": "P019",
+      "nome": "Gustavo Almeida"
+    },
+    "dentista": {
+      "dentista_id": "D001",
+      "nome": "Dr. João Silva"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG019",
+      "descricao": "Gengivite leve",
+      "recomendacao": "Raspagem e orientação de higiene"
+    }
+  },
+  {
+    "_id": "681917706c74f7df883c2ca9",
+    "consulta_id": "C020",
+    "data_consulta": "2025-07-10",
+    "observacoes": "Paciente com dor ao morder.",
+    "paciente": {
+      "paciente_id": "P020",
+      "nome": "Fernanda Almeida"
+    },
+    "dentista": {
+      "dentista_id": "D002",
+      "nome": "Dra. Ana Costa"
+    },
+    "diagnostico": {
+      "diagnostico_id": "DG020",
+      "descricao": "Fratura dentária no dente 31",
+      "recomendacao": "Restauração com resina composta"
+    }
+  },
+  {
+    "_id": "681d5c7e3d6826fc63d07ee4",
+    "consulta_id": "C040",
+    "data_consulta": "2025-07-02",
+    "observacoes": "nADA",
+    "paciente": {
+      "paciente_id": "P040",
+      "nome": "JUAN PABLO"
+    },
+    "dentista": {
+      "dentista_id": "D040",
+      "nome": "ESCOBAR"
+    },
+    "diagnostico": {
+      "diagnostico_id": "E040",
+      "descricao": "Cárie",
+      "recomendacao": "limpeza"
+    }
+  },
+  {
+    "_id": "681917796c74f7df883c2cab",
+    "dentista_id": "D002",
+    "nome": "Dra. Ana Beatriz",
+    "email": "ana.beatriz@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cac",
+    "dentista_id": "D003",
+    "nome": "Dr. Carlos Mendes",
+    "email": "carlos.mendes@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cad",
+    "dentista_id": "D004",
+    "nome": "Dra. Fernanda Lima",
+    "email": "fernanda.lima@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cae",
+    "dentista_id": "D005",
+    "nome": "Dr. Ricardo Almeida",
+    "email": "ricardo.almeida@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      },
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2caf",
+    "dentista_id": "D006",
+    "nome": "Dra. Juliana Costa",
+    "email": "juliana.costa@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb0",
+    "dentista_id": "D007",
+    "nome": "Dr. Felipe Rocha",
+    "email": "felipe.rocha@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      },
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb1",
+    "dentista_id": "D008",
+    "nome": "Dra. Mariana Santos",
+    "email": "mariana.santos@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb2",
+    "dentista_id": "D009",
+    "nome": "Dr. André Lima",
+    "email": "andre.lima@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb3",
+    "dentista_id": "D010",
+    "nome": "Dra. Paula Martins",
+    "email": "paula.martins@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb4",
+    "dentista_id": "D011",
+    "nome": "Dr. Gustavo Ferreira",
+    "email": "gustavo.ferreira@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb5",
+    "dentista_id": "D012",
+    "nome": "Dra. Tatiane Almeida",
+    "email": "tatiane.almeida@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb6",
+    "dentista_id": "D013",
+    "nome": "Dr. Leonardo Costa",
+    "email": "leonardo.costa@odontclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb7",
+    "dentista_id": "D014",
+    "nome": "Dra. Camila Santos",
+    "email": "camila.santos@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb8",
+    "dentista_id": "D015",
+    "nome": "Dr. Rafael Almeida",
+    "email": "rafael.almeida@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cb9",
+    "dentista_id": "D016",
+    "nome": "Dra. Beatriz Lima",
+    "email": "beatriz.lima@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cba",
+    "dentista_id": "D017",
+    "nome": "Dr. Felipe Mendes",
+    "email": "felipe.mendes@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cbb",
+    "dentista_id": "D018",
+    "nome": "Dra. Juliana Rocha",
+    "email": "juliana.rocha@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E02",
+        "nome": "Implantodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cbc",
+    "dentista_id": "D019",
+    "nome": "Dr. André Ferreira",
+    "email": "andre.ferreira@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      },
+      {
+        "especialidade_id": "E04",
+        "nome": "Periodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917796c74f7df883c2cbd",
+    "dentista_id": "D020",
+    "nome": "Dra. Mariana Almeida",
+    "email": "mariana.almeida@odontoclin.com",
+    "especialidades": [
+      {
+        "especialidade_id": "E01",
+        "nome": "Ortodontia"
+      },
+      {
+        "especialidade_id": "E03",
+        "nome": "Endodontia"
+      }
+    ]
+  },
+  {
+    "_id": "681917886c74f7df883c2cbf",
+    "paciente_id": "P002",
+    "nome": "Carlos Andrade",
+    "data_nascimento": "1982-07-22",
+    "email": "carlos.andrade@email.com",
+    "telefone": "(21) 99876-5432",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc0",
+    "paciente_id": "P003",
+    "nome": "Luciana Costa",
+    "data_nascimento": "1975-12-03",
+    "email": "luciana.costa@email.com",
+    "telefone": "(31) 98765-4321",
+    "plano_saude": {
+      "plano_id": "PL003",
+      "nome": "Plano Bronze",
+      "cobertura": "Básica",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc1",
+    "paciente_id": "P004",
+    "nome": "Roberto Lima",
+    "data_nascimento": "1995-03-15",
+    "email": "roberto.lima@email.com",
+    "telefone": "(41) 97654-3210",
+    "plano_saude": {
+      "plano_id": "PL001",
+      "nome": "Plano Ouro",
+      "cobertura": "Completa",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc2",
+    "paciente_id": "P005",
+    "nome": "Vladimir Putin",
+    "data_nascimento": "1988-11-20",
+    "email": "vladimir.putin@email.com",
+    "telefone": "(51) 96543-2109",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc3",
+    "paciente_id": "P006",
+    "nome": "Angela Merkel",
+    "data_nascimento": "1984-01-30",
+    "email": "angela.merkel@email.com",
+    "telefone": "(61) 95432-1098",
+    "plano_saude": {
+      "plano_id": "PL003",
+      "nome": "Plano Bronze",
+      "cobertura": "Básica",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc4",
+    "paciente_id": "P007",
+    "nome": "Barack Obama",
+    "data_nascimento": "1961-08-04",
+    "email": "barack.obama@email.com",
+    "telefone": "(71) 94321-0987",
+    "plano_saude": {
+      "plano_id": "PL001",
+      "nome": "Plano Ouro",
+      "cobertura": "Completa",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc5",
+    "paciente_id": "P008",
+    "nome": "Donald Trump",
+    "data_nascimento": "1946-06-14",
+    "email": "donald.trump@email.com",
+    "telefone": "(81) 93210-9876",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc6",
+    "paciente_id": "P009",
+    "nome": "Xi Jinping",
+    "data_nascimento": "1953-06-15",
+    "email": "xi.jinping@email.com",
+    "telefone": "(91) 92109-8765",
+    "plano_saude": {
+      "plano_id": "PL003",
+      "nome": "Plano Bronze",
+      "cobertura": "Básica",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc7",
+    "paciente_id": "P010",
+    "nome": "Narendra Modi",
+    "data_nascimento": "1950-09-17",
+    "email": "narendra.modi@email.com",
+    "telefone": "(11) 91098-7654",
+    "plano_saude": {
+      "plano_id": "PL001",
+      "nome": "Plano Ouro",
+      "cobertura": "Completa",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc8",
+    "paciente_id": "P011",
+    "nome": "Emmanuel Macron",
+    "data_nascimento": "1977-12-21",
+    "email": "emmanuel.macron@email.com",
+    "telefone": "(21) 90987-6543",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cc9",
+    "paciente_id": "P012",
+    "nome": "Boris Johnson",
+    "data_nascimento": "1964-06-19",
+    "email": "boris.johnson@email.com",
+    "telefone": "(31) 89876-5432",
+    "plano_saude": {
+      "plano_id": "PL003",
+      "nome": "Plano Bronze",
+      "cobertura": "Básica",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cca",
+    "paciente_id": "P013",
+    "nome": "Justin Trudeau",
+    "data_nascimento": "1971-12-25",
+    "email": "justin.tradeau@email.com",
+    "telefone": "(41) 88765-4321",
+    "plano_saude": {
+      "plano_id": "PL001",
+      "nome": "Plano Ouro",
+      "cobertura": "Completa",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2ccb",
+    "paciente_id": "P014",
+    "nome": "Jacinda Ardern",
+    "data_nascimento": "1980-07-26",
+    "email": "jacinda.arden@email.com",
+    "telefone": "(51) 87654-3210",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2ccc",
+    "paciente_id": "P015",
+    "nome": "Angela Davis",
+    "data_nascimento": "1944-01-26",
+    "email": "angela.davis@email.com",
+    "telefone": "(61) 86543-2109",
+    "plano_saude": {
+      "plano_id": "PL003",
+      "nome": "Plano Bronze",
+      "cobertura": "Básica",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2ccd",
+    "paciente_id": "P016",
+    "nome": "Greta Thunberg",
+    "data_nascimento": "2003-01-03",
+    "email": "greta.thunberg@email.com",
+    "telefone": "(71) 85432-1098",
+    "plano_saude": {
+      "plano_id": "PL001",
+      "nome": "Plano Ouro",
+      "cobertura": "Completa",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cce",
+    "paciente_id": "P017",
+    "nome": "Malala Yousafzai",
+    "data_nascimento": "1997-07-12",
+    "email": "malala.yousafzai@email.com",
+    "telefone": "(81) 84321-0987",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2ccf",
+    "paciente_id": "P018",
+    "nome": "Elon Musk",
+    "data_nascimento": "1971-06-28",
+    "email": "elon.musk@email.com",
+    "telefone": "(91) 83210-9876",
+    "plano_saude": {
+      "plano_id": "PL003",
+      "nome": "Plano Bronze",
+      "cobertura": "Básica",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cd0",
+    "paciente_id": "P019",
+    "nome": "Bill Gates",
+    "data_nascimento": "1955-10-28",
+    "email": "bill.gates@email.com",
+    "telefone": "(11) 82109-8765",
+    "plano_saude": {
+      "plano_id": "PL001",
+      "nome": "Plano Ouro",
+      "cobertura": "Completa",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681917886c74f7df883c2cd1",
+    "paciente_id": "P020",
+    "nome": "Steve Jobs",
+    "data_nascimento": "1955-02-24",
+    "email": "steve.jobs@email.com",
+    "telefone": "(21) 81098-7654",
+    "plano_saude": {
+      "plano_id": "PL002",
+      "nome": "Plano Prata",
+      "cobertura": "Parcial",
+      "ativo": true
+    }
+  },
+  {
+    "_id": "681d5fa6daf744f5a27028b8",
+    "paciente_id": "P060",
+    "nome": "Dominic Toretto",
+    "data_nascimento": "2005-07-02",
+    "email": "dom.toretto@email.com",
+    "telefone": "1140028922",
+    "plano_saude": {
+      "plano_id": "",
+      "nome": "",
+      "cobertura": "",
+      "ativo": false
+    }
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd2",
+    "sinistro_id": "S001",
+    "data_sinistro": "2025-03-20",
+    "valor": 650,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG001",
+        "descricao": "Cárie dentária no dente 46",
+        "consulta_id": "C001"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd3",
+    "sinistro_id": "S002",
+    "data_sinistro": "2025-04-02",
+    "valor": 1200,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG002",
+        "descricao": "Gengivite leve",
+        "consulta_id": "C002"
+      },
+      {
+        "diagnostico_id": "DG005",
+        "descricao": "Placa bacteriana extensa",
+        "consulta_id": "C008"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd4",
+    "sinistro_id": "S003",
+    "data_sinistro": "2025-04-12",
+    "valor": 2300,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG003",
+        "descricao": "Mordida cruzada anterior",
+        "consulta_id": "C003"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd5",
+    "sinistro_id": "S004",
+    "data_sinistro": "2025-04-22",
+    "valor": 1500,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG004",
+        "descricao": "Abscesso periapical",
+        "consulta_id": "C004"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd6",
+    "sinistro_id": "S005",
+    "data_sinistro": "2025-05-01",
+    "valor": 800,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG006",
+        "descricao": "Fratura de dente",
+        "consulta_id": "C005"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd7",
+    "sinistro_id": "S006",
+    "data_sinistro": "2025-05-10",
+    "valor": 950,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG007",
+        "descricao": "Tratamento de canal no dente 21",
+        "consulta_id": "C006"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd8",
+    "sinistro_id": "S007",
+    "data_sinistro": "2025-05-15",
+    "valor": 500,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG008",
+        "descricao": "Limpeza dental",
+        "consulta_id": "C007"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cd9",
+    "sinistro_id": "S008",
+    "data_sinistro": "2025-05-20",
+    "valor": 1100,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG009",
+        "descricao": "Extração do dente 38",
+        "consulta_id": "C009"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cda",
+    "sinistro_id": "S009",
+    "data_sinistro": "2025-05-25",
+    "valor": 700,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG010",
+        "descricao": "Restauração de dente",
+        "consulta_id": "C010"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cdb",
+    "sinistro_id": "S010",
+    "data_sinistro": "2025-06-01",
+    "valor": 1300,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG011",
+        "descricao": "Tratamento ortodôntico",
+        "consulta_id": "C011"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cdc",
+    "sinistro_id": "S011",
+    "data_sinistro": "2025-06-10",
+    "valor": 900,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG012",
+        "descricao": "Clareamento dental",
+        "consulta_id": "C012"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cdd",
+    "sinistro_id": "S012",
+    "data_sinistro": "2025-06-15",
+    "valor": 400,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG013",
+        "descricao": "Consulta de rotina",
+        "consulta_id": "C013"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cde",
+    "sinistro_id": "S013",
+    "data_sinistro": "2025-06-20",
+    "valor": 850,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG014",
+        "descricao": "Tratamento de gengivite",
+        "consulta_id": "C014"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2cdf",
+    "sinistro_id": "S014",
+    "data_sinistro": "2025-06-25",
+    "valor": 1200,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG015",
+        "descricao": "Implante dentário",
+        "consulta_id": "C015"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2ce0",
+    "sinistro_id": "S015",
+    "data_sinistro": "2025-07-01",
+    "valor": 600,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG016",
+        "descricao": "Tratamento de periodontite",
+        "consulta_id": "C016"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2ce1",
+    "sinistro_id": "S016",
+    "data_sinistro": "2025-07-10",
+    "valor": 1100,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG017",
+        "descricao": "Restauração de canal",
+        "consulta_id": "C017"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2ce2",
+    "sinistro_id": "S017",
+    "data_sinistro": "2025-07-15",
+    "valor": 750,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG018",
+        "descricao": "Tratamento de bruxismo",
+        "consulta_id": "C018"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2ce3",
+    "sinistro_id": "S018",
+    "data_sinistro": "2025-07-20",
+    "valor": 950,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG019",
+        "descricao": "Aparelho ortodôntico removível",
+        "consulta_id": "C019"
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2ce4",
+    "sinistro_id": "S019",
+    "data_sinistro": "2025-07-25",
+    "valor": 1300,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG020",
+        "descricao": "Tratamento de fluorose dentária",
+        "consulta_id": null
+      }
+    ]
+  },
+  {
+    "_id": "6819178f6c74f7df883c2ce5",
+    "sinistro_id": "S020",
+    "data_sinistro": "2025-08-01",
+    "valor": 800,
+    "diagnosticos": [
+      {
+        "diagnostico_id": "DG021",
+        "descricao": "Tratamento de hipersensibilidade dentária",
+        "consulta_id": null
+      }
+    ]
+  }
+]

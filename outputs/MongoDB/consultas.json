@@ -1,24 +1,5 @@
 [
     {
-        "_id": "681917706c74f7df883c2c96",
-        "consulta_id": "C001",
-        "data_consulta": "2025-04-10",
-        "observacoes": "Paciente reclamando de dor no molar inferior direito.",
-        "paciente": {
-            "paciente_id": "P001",
-            "nome": "Maria Silva"
-        },
-        "dentista": {
-            "dentista_id": "D001",
-            "nome": "Dr. João Silva"
-        },
-        "diagnostico": {
-            "diagnostico_id": "DG001",
-            "descricao": "Cárie dentária no dente 46",
-            "recomendacao": "Obturação com resina composta"
-        }
-    },
-    {
         "_id": "681917706c74f7df883c2c97",
         "consulta_id": "C002",
         "data_consulta": "2025-04-15",
@@ -377,6 +358,25 @@
             "diagnostico_id": "DG020",
             "descricao": "Fratura dentária no dente 31",
             "recomendacao": "Restauração com resina composta"
+        }
+    },
+    {
+        "_id": "681d5c7e3d6826fc63d07ee4",
+        "consulta_id": "C040",
+        "data_consulta": "2025-07-02",
+        "observacoes": "nADA",
+        "paciente": {
+            "paciente_id": "P040",
+            "nome": "JUAN PABLO"
+        },
+        "dentista": {
+            "dentista_id": "D040",
+            "nome": "ESCOBAR"
+        },
+        "diagnostico": {
+            "diagnostico_id": "E040",
+            "descricao": "Cárie",
+            "recomendacao": "limpeza"
         }
     }
 ]
