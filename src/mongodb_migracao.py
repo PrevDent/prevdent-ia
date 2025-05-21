@@ -8,7 +8,7 @@ from bson.json_util import dumps
 
 MONGO_URI = "mongodb://localhost:27017/"  
 DATABASE_NAME = "Banco"  
-OUTPUT_DIR = "C:/Users/zenet/OneDrive/Desktop/Sprint_4/prevdent-ia/outputs/MongoDB/"  
+OUTPUT_DIR = "../outputs/MongoDB/"  
 
 
 class JSONEncoder(json.JSONEncoder):
