@@ -7,8 +7,8 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)
 
-CAMINHO_DADOS_JSON = 'C:/Users/zenet/OneDrive/Desktop/Sprint_4/prevdent-ia/outputs/MongoDB/base_unificada.json'
-CAMINHO_SAIDA_PASTA = 'C:/Users/zenet/OneDrive/Desktop/Sprint_4/prevdent-ia/outputs/respostas_modelo/'
+CAMINHO_DADOS_JSON = '../outputs/MongoDB/base_unificada.json'
+CAMINHO_SAIDA_PASTA = '../outputs/MongoDB/respostas_modelo/'
 
 os.makedirs(CAMINHO_SAIDA_PASTA, exist_ok=True)
 
