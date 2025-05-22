@@ -113,5 +113,9 @@ Caso deseje contribuir ou tenha dúvidas, entre em contato com o responsável pe
 
 ---
 
-## Link Vídeo:
-https://www.youtube.com/watch?v=xe6j4f32Ky0
+## Link:
+
+Vídeo: https://www.youtube.com/watch?v=xe6j4f32Ky0
+
+Github: https://github.com/PrevDent/prevdent-ia.git
+
